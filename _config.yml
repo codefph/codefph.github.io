@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: FANENGHUI
+title: 长风满满
 subtitle: 'Welcome to FANENGHUI'
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://codefph.github.io/project
+url: https://codefph.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: 'git'
   repo: 'https://github.com/codefph/codefph.github.io.git'
-  branch: main
+  branch: blog
